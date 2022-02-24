@@ -7,7 +7,7 @@ Kaggleの[30 Days of ML](https://www.kaggle.com/c/30-days-of-ml/overview)チャ�
 私はプログラミングができませんでしたので、ちょっとぐらいコード変化することも難しくて苦労しました。
 それで、最後は7573人の中1122位になりました。大して良い位置ではありませんが、とても楽しくて「ずっとこれをやりたい！」と思って、データサイエンティストになるように頑張る最初の一歩でした。
 
-コンペについて書いた記事（英語）は以下[こちら](https://www.kaggle.com/evi125/a-beginners-approach-to-30-days-of-ml-top-15)になります。
+コンペについて書いた記事（英語）は以下[こちら](https://community.dataquest.io/t/from-beginner-to-kaggle-competitor-in-30-days/556641)になります。
 
 
 
